@@ -11,4 +11,4 @@ To run the script, simply execute it from the command line, optionally passing t
 
 Example:
 ```bash
-./rm_dup.sh /path/to/target/directory
+./rm_dups.sh /path/to/target/directory
